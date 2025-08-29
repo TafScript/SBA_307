@@ -1,0 +1,1 @@
+This website includes three pages and on each page has either a gif/mp4, or css animation. This project was created using the flexbox display and the bootstrap framework. It meets all the specifications required.
